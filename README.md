@@ -13,3 +13,4 @@
 - Python 설치 
 - Jupyter Notebook 설치 
 - git 파일 추가
+-이거 실험입니다
